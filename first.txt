@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 ALOHASUKI1111111111pussssiiiiiiiiiiiiichanged text file contentALOHASUKI
 new text
-=======
-ALOHASuI1111111111pssssiiiiiiiiiiiiichanged text file contentALOHASKI
->>>>>>> main
+
